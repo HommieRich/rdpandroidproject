@@ -1,69 +1,67 @@
 {
   "breakfast": [
-    {
-      "101": {
+     {
         "name": "Idly (2 Nos)",
         "description": "Sambar -\r\n50ml \nChuttni-50ml",
         "image": "/idly.jpg",
         "price": "20"
       },
-      "102": {
+       {
         "name": "Pongal",
         "description": "Sambar - 50ml \nChuttni-50ml",
         "image": "/pongal.jpeg",
         "price": "40"
       },
-      "103": {
+       {
         "name": "KalDosa",
         "description": "Sambar - 50ml \nChuttni-50ml",
         "image": "/kaldosa.jpeg",
         "price": "60"
       },
-      "104": {
+      {
         "name": "Poori",
         "description": "Sambar - 50ml \nChuttni-50ml",
         "image": "/poori.jpg",
         "price": "45"
       },
-      "105": {
+      {
         "name": "Vada",
         "description": "Sambar - 50ml \nChuttni-50ml",
         "image": "/vada.jpeg",
         "price": "10"
       }
-    }
+  
   ],
   "Meals": [
-    {
-      "201": {
+    
+     {
         "name": "Thali Meals",
         "image": "/idly.jpg",
         "price": "120"
       },
-      "202": {
+      {
         "name": "Non Veg Meals",
         "image": "/idly.jpg",
         "price": "150"
       }
-    }
+     
   ],
   "dinner": [
-    {
-      "301": {
+     {
         "name": "Veg Fried Rice",
         "image": "/idly.jpg",
         "price": "120"
       },
-      "302": {
+       {
         "name": "Gobi Manchurian",
         "image": "/idly.jpg",
         "price": "150"
       },
-      "303": {
+      {
         "name": "Veg Soup",
         "image": "/idly.jpg",
         "price": "50"
       }
-    }
+  
   ]
 }
